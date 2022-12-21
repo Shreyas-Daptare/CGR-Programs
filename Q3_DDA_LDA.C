@@ -29,7 +29,7 @@ void dda_line(int x1, int y1, int x2, int y2)
 }
 void main()
 {
-    int gd = DETECT ,gm, i;
+    int gd = DETECT ,gm;
     int x0,y0,xn,yn;
     initgraph(&gd,&gm,"C://TURBOC3//BGI");
 
