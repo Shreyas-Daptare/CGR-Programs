@@ -8,7 +8,7 @@ int x,y,x1,y1,x2,y2,tx,ty;
 initgraph(&gd,&gm,"C:\\TURBOC3\\BGI");
 printf("\n Please enter first coordinate of the triangle= ");
 scanf("%d %d", &x,&y);
-printf("\n Enter second coordinate of the trinagle = ");
+printf("\n Enter second coordinate of the triangle = ");
 scanf("%d %d",&x1,&y1);
 printf("\n Enter third coordinate of the triangle = ");
 scanf("%d %d",&x2,&y2);
